@@ -1,4 +1,4 @@
-class Footballer():
+class Footballer:
     #Futbolcuların ismi, soyismi, yaşı, göz rengi gibi özellikleri olabilir.
     # Attribute; özellik,
     # nitelik anlamına gelir.
