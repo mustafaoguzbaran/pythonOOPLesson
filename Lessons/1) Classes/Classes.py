@@ -3,7 +3,7 @@
 class Employee:
     #İçinde bulunacak olanlar:
     #attribute: Özellik anlamına gelir. Örneğin Ahmet'in maaşı, departmanı, yaşı, ismi, soyismi vb.
-    #behaviour: Davranı. anlamına gelir. Ahmet'in departmanı eğer IT departmanı ise Ahmet'in kod yazması onun bir
+    #behaviour: Davranış anlamına gelir. Ahmet'in departmanı eğer IT departmanı ise Ahmet'in kod yazması onun bir
     # davranışı anlamına gelir.
     pass
 
