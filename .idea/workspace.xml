@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d9c4b-91e6-4cd5-9fc8-22cebff3d366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonOOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="766d9c4b-91e6-4cd5-9fc8-22cebff3d366" name="Changes" comment="mustafaoguzbaran: constructor lesson was created.">
+      <change afterPath="$PROJECT_DIR$/Lessons/6) Encapsulation/Encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,29 +23,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2iCAKUiP1QzhBDePEoGNYbZYvbK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodsVsFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonOOP" />
@@ -93,21 +94,70 @@
       <option name="presentableId" value="Default" />
       <updated>1718984123154</updated>
       <workItem from="1718984125973" duration="747000" />
+      <workItem from="1718991918526" duration="8097000" />
+      <workItem from="1719058645828" duration="1305000" />
     </task>
+    <task id="LOCAL-00001" summary="mustafaoguzbaran: classes lesson was created.">
+      <option name="closed" value="true" />
+      <created>1719050259934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719050259934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mustafaoguzbaran: attributes lesson was created.">
+      <option name="closed" value="true" />
+      <created>1719051525422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719051525422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mustafaoguzbaran: methods lesson was created.">
+      <option name="closed" value="true" />
+      <created>1719054528549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719054528549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mustafaoguzbaran: methods vs functions lesson was created.">
+      <option name="closed" value="true" />
+      <created>1719055762507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055762507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mustafaoguzbaran: constructor lesson was created.">
+      <option name="closed" value="true" />
+      <created>1719056802879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719056802879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mustafaoguzbaran: classes lesson was created." />
+    <MESSAGE value="mustafaoguzbaran: attributes lesson was created." />
+    <MESSAGE value="mustafaoguzbaran: methods lesson was created." />
+    <MESSAGE value="mustafaoguzbaran: methods vs functions lesson was created." />
+    <MESSAGE value="mustafaoguzbaran: constructor lesson was created." />
+    <option name="LAST_COMMIT_MESSAGE" value="mustafaoguzbaran: constructor lesson was created." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonOOP$main.coverage" NAME="main Coverage Results" MODIFIED="1719058990091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonOOP$Attributes.coverage" NAME="Attributes Coverage Results" MODIFIED="1719054668313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/2) Attributes" />
+    <SUITE FILE_PATH="coverage/pythonOOP$MethodsVsFunctions.coverage" NAME="MethodsVsFunctions Coverage Results" MODIFIED="1719055129221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/4) Methods vs Functions" />
+    <SUITE FILE_PATH="coverage/pythonOOP$Encapsulation.coverage" NAME="Encapsulation Coverage Results" MODIFIED="1719059900585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/6) Encapsulation" />
+    <SUITE FILE_PATH="coverage/pythonOOP$Constructors.coverage" NAME="Constructors Coverage Results" MODIFIED="1719056606487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/5) Constructors" />
+    <SUITE FILE_PATH="coverage/pythonOOP$Methods.coverage" NAME="Methods Coverage Results" MODIFIED="1719054334853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/3) Methods" />
+    <SUITE FILE_PATH="coverage/pythonOOP$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1719054663718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/1) Classes" />
   </component>
 </project>
